@@ -1,0 +1,22 @@
+
+  CC = gcc
+
+
+  CFLAGS  = -g -Wall
+
+
+  TARGET_01 = psearch1
+  SOURCE_01 = psearch1
+  TARGET_02 = psearch2
+  SOURCE_02 = psearch2
+
+  all: $(TARGET_01) $(TARGET_02)
+
+  $(TARGET_01): $(SOURCE_01).c
+		$(CC)	$(CFLAGS)	-o	$(TARGET_01)	$(SOURCE_01).c
+  $(TARGET_02): $(SOURCE_02).c
+		$(CC)	$(CFLAGS)	-o	$(TARGET_02)	$(SOURCE_02).c
+
+  clean:
+		$(RM) $(TARGET_01) $(TARGET_02)
+

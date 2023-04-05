@@ -1,0 +1,3 @@
+/home/vboxuser/CLionProjects/diningphi/cmake-build-debug/CMakeFiles/diningphi.dir
+/home/vboxuser/CLionProjects/diningphi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vboxuser/CLionProjects/diningphi/cmake-build-debug/CMakeFiles/rebuild_cache.dir

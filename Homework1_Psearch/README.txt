@@ -1,0 +1,1 @@
+In this homework, I tried to search a giving string by using pthreads.

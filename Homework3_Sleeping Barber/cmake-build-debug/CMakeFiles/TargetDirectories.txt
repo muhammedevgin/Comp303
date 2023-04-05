@@ -1,0 +1,3 @@
+/home/vboxuser/CLionProjects/sleeping bar/cmake-build-debug/CMakeFiles/sleeping_bar.dir
+/home/vboxuser/CLionProjects/sleeping bar/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vboxuser/CLionProjects/sleeping bar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
